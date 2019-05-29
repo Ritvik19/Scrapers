@@ -7,6 +7,6 @@ Web Scraper for various websites
 Just run a notebook to scrape the corresponding website, 
 but make sure you have installed beautifulsoup4 library:
 
-'''
+```
 pip install beautifulsoup4
-'''
+```
