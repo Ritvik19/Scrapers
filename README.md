@@ -1,11 +1,14 @@
 # Lord-Varys
 
+_The Master of Whisperers_
+
 > My little birds are everywhere, and they whisper to me the strangest stories...
 
 Web Scraper for various websites
 
-Just run any notebook to scrape the corresponding website, 
-but make sure you have installed beautifulsoup4 library:
+Just run any notebook to scrape the corresponding website,
+
+but first make sure that you have installed beautifulsoup4 library:
 
 ```
 pip install beautifulsoup4
