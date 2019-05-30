@@ -14,7 +14,6 @@ but first make sure that you have got **beautifulsoup4** library installed:
 pip install beautifulsoup4
 ```
 This repo consists of notebooks that scrape:
-
 * [CSS Tricks](https://css-tricks.com/snippets/)
 * [Crazy Programmer](https://www.thecrazyprogrammer.com)
 * [IncludeHelp code-snippets](https://www.includehelp.com/code-snippets/)
