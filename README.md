@@ -1,4 +1,4 @@
-# Lord-Varys
+# Lord-Pyrys
 
 _The Master of Whisperers_
 
@@ -8,7 +8,7 @@ Web Scraper for various websites
 
 Just run any notebook to scrape the corresponding website,
 
-but first make sure that you have installed beautifulsoup4 library:
+but first make sure that you have got **beautifulsoup4** library installed:
 
 ```
 pip install beautifulsoup4
