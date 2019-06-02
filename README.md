@@ -25,3 +25,4 @@ This repo consists of notebooks that scrape:
 * [Snipplr](https://snipplr.com/popular/language)
 * [Syntax DB](https://syntaxdb.com/reference)
 * [jQuery](https://www.thecrazyprogrammer.com/2015/01/useful-jquery-code-snippets.html)
+* Website Info: provides various info about a website using [Alexa](https://www.alexa.com/siteinfo/) and [Whois](https://www.whois.com/)
