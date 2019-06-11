@@ -8,9 +8,15 @@ Web Scraper for various websites
 
 Just run any notebook to scrape the corresponding website,
 
-but first make sure that you have got **anaconda** python distribution:
+dependencies:
+* Anaconda Python Distribution
+* Scrapy Library
+```
+pip install scrapy
+```
 
-This repo consists of notebooks that scrape:
+This repo consists of notebooks and crawlers that scrape:
+* [Quotes2Scrape](https://quotes.toscrape.com) Crawler: *quotes*
 * [CSS Tricks](https://css-tricks.com/snippets/)
 * [Crazy Programmer](https://www.thecrazyprogrammer.com)
 * [IncludeHelp code-snippets](https://www.includehelp.com/code-snippets/)
@@ -25,3 +31,12 @@ This repo consists of notebooks that scrape:
 * [Syntax DB](https://syntaxdb.com/reference)
 * [Weather](https://openweathermap.org/) : provides current weather info or 5 day forecast for a city
 * Website Info: provides various info about a website using [Alexa](https://www.alexa.com/siteinfo/) and [Whois](https://www.whois.com/)
+
+Instructions:
+* Crawlers:
+      Traverse to the directory in the command line and type
+```
+scrapy crawl <crawler name> -o <outfilename>
+```
+* Notebooks:
+      Just run them in any jupyter environment
