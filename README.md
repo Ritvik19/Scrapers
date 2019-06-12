@@ -18,6 +18,7 @@ pip install scrapy
 This repo consists of notebooks and crawlers that scrape:
 * [Books2Scrape](https://books.toscrape.com) Crawler: *books*
 * [Quotes2Scrape](https://quotes.toscrape.com) Crawler: *quotes*
+* [TutorialsPoint](https://www.tutorialspoint.com/programming_examples/) Crawler: *snippets*
 * [CSS Tricks](https://css-tricks.com/snippets/)
 * [Crazy Programmer](https://www.thecrazyprogrammer.com)
 * [IncludeHelp code-snippets](https://www.includehelp.com/code-snippets/)
