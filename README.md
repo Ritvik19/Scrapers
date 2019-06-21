@@ -21,6 +21,7 @@ This repo consists of notebooks and crawlers that scrape:
 * [TutorialsPoint](https://www.tutorialspoint.com/programming_examples/) Crawler: *snippets*
 * [CSS Tricks](https://css-tricks.com/snippets/)
 * [Crazy Programmer](https://www.thecrazyprogrammer.com)
+* Image Crawler: Downloads all images from a webpage
 * [IncludeHelp code-snippets](https://www.includehelp.com/code-snippets/)
 * [Java](https://jaxenter.com/15-useful-code-snippets-java-developers-131796.html)
 * [Jonas John](http://www.jonasjohn.de/snippets/all.htm)
