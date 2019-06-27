@@ -23,6 +23,7 @@ This repo consists of notebooks and crawlers that scrape:
 * [Crazy Programmer](https://www.thecrazyprogrammer.com)
 * Image Crawler: Downloads all images from a webpage
 * [IncludeHelp code-snippets](https://www.includehelp.com/code-snippets/)
+* [Inshorts](https://inshorts.com/en/read)
 * [Java](https://jaxenter.com/15-useful-code-snippets-java-developers-131796.html)
 * [Jonas John](http://www.jonasjohn.de/snippets/all.htm)
 * [jQuery](https://www.thecrazyprogrammer.com/2015/01/useful-jquery-code-snippets.html)
