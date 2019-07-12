@@ -30,6 +30,7 @@ This repo consists of notebooks and crawlers that scrape:
 * OnThisDay: crawls through [On This Day](https://www.onthisday.com/) and [Britannica](https://www.britannica.com/on-this-day) to fetch data into json format
 * [Project Euler](https://projecteuler.net/archives)
 * [Python Snyppets](https://snippets.readthedocs.io/en/latest/)
+* [Reddit-Today I Learned](https://www.reddit.com/r/todayilearned/)
 * [Seb Sauvage](https://sebsauvage.net/python/snyppets/)
 * [Snipplr](https://snipplr.com/popular/language)
 * [Syntax DB](https://syntaxdb.com/reference)
