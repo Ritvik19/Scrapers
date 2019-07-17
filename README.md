@@ -36,6 +36,7 @@ This repo consists of notebooks and crawlers that scrape:
 * [Python Snyppets](https://snippets.readthedocs.io/en/latest/)
 * [Reddit-Life Pro Tips](https://www.reddit.com/r/LifeProTips/)
 * [Reddit-Today I Learned](https://www.reddit.com/r/todayilearned/)
+* [Reddit-wikipedia](https://www.reddit.com/r/wikipedia/)
 * [Seb Sauvage](https://sebsauvage.net/python/snyppets/)
 * [Snipplr](https://snipplr.com/popular/language)
 * [Syntax DB](https://syntaxdb.com/reference)
