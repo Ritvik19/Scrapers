@@ -20,9 +20,9 @@ pip intall praw
 ```
 
 This repo consists of notebooks and crawlers that scrape:
-* [Books2Scrape](https://books.toscrape.com) Crawler: *books*
-* [Quotes2Scrape](https://quotes.toscrape.com) Crawler: *quotes*
-* [TutorialsPoint](https://www.tutorialspoint.com/programming_examples/) Crawler: *snippets*
+* [Books2Scrape](https://books.toscrape.com) ```Crawler``` books
+* [Quotes2Scrape](https://quotes.toscrape.com) ```Crawler``` quotes
+* [TutorialsPoint](https://www.tutorialspoint.com/programming_examples/) ```Crawler``` snippets
 * [CSS Tricks](https://css-tricks.com/snippets/)
 * [Crazy Programmer](https://www.thecrazyprogrammer.com)
 * Image Crawler: Downloads all images from a webpage
@@ -35,6 +35,7 @@ This repo consists of notebooks and crawlers that scrape:
 * [Project Euler](https://projecteuler.net/archives)
 * [Python Snyppets](https://snippets.readthedocs.io/en/latest/)
 * [Reddit-Life Pro Tips](https://www.reddit.com/r/LifeProTips/)
+* [Reddit-Shower Thoughts](https://www.reddit.com/r/Showerthoughts/)
 * [Reddit-Today I Learned](https://www.reddit.com/r/todayilearned/)
 * [Reddit-wikipedia](https://www.reddit.com/r/wikipedia/)
 * [Seb Sauvage](https://sebsauvage.net/python/snyppets/)
