@@ -34,6 +34,7 @@ This repo consists of notebooks and crawlers that scrape:
 * OnThisDay: crawls through [On This Day](https://www.onthisday.com/) and [Britannica](https://www.britannica.com/on-this-day) to fetch data into json format
 * [Project Euler](https://projecteuler.net/archives)
 * [Python Snyppets](https://snippets.readthedocs.io/en/latest/)
+* [Reddit-Ask Reddit](https://www.reddit.com/r/AskReddit/)
 * [Reddit-Life Pro Tips](https://www.reddit.com/r/LifeProTips/)
 * [Reddit-Shower Thoughts](https://www.reddit.com/r/Showerthoughts/)
 * [Reddit-Today I Learned](https://www.reddit.com/r/todayilearned/)
