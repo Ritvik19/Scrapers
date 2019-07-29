@@ -35,6 +35,7 @@ This repo consists of notebooks and crawlers that scrape:
 * [Project Euler](https://projecteuler.net/archives)
 * [Python Snyppets](https://snippets.readthedocs.io/en/latest/)
 * [Reddit-Ask Reddit](https://www.reddit.com/r/AskReddit/)
+* [Reddit-Explain Like I'm Five](https://www.reddit.com/r/explainlikeimfive/)
 * [Reddit-Life Pro Tips](https://www.reddit.com/r/LifeProTips/)
 * [Reddit-Shower Thoughts](https://www.reddit.com/r/Showerthoughts/)
 * [Reddit-Today I Learned](https://www.reddit.com/r/todayilearned/)
