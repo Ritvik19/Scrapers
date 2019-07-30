@@ -33,6 +33,7 @@ This repo consists of notebooks and crawlers that scrape:
 * [jQuery](https://www.thecrazyprogrammer.com/2015/01/useful-jquery-code-snippets.html)
 * OnThisDay: crawls through [On This Day](https://www.onthisday.com/) and [Britannica](https://www.britannica.com/on-this-day) to fetch data into json format
 * [Project Euler](https://projecteuler.net/archives)
+* [ProjectGutenberg](https://www.gutenberg.org/)
 * [Python Snyppets](https://snippets.readthedocs.io/en/latest/)
 * [Reddit-Ask Reddit](https://www.reddit.com/r/AskReddit/)
 * [Reddit-Explain Like I'm Five](https://www.reddit.com/r/explainlikeimfive/)
