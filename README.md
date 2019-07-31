@@ -18,10 +18,13 @@ pip install scrapy
 ```
 pip intall praw
 ```
-
-This repo consists of notebooks and crawlers that scrape:
-* [Books2Scrape](https://books.toscrape.com) ```Crawler``` books
-* [Quotes2Scrape](https://quotes.toscrape.com) ```Crawler``` quotes
+* Selenium
+```
+pip install selenium
+```
+This repo consists of notebooks, scripts for automated browsers and crawlers that scrape:
+* [Books2Scrape](https://books.toscrape.com) ```Crawler```
+* [Quotes2Scrape](https://quotes.toscrape.com) ```Crawler```
 * [TutorialsPoint](https://www.tutorialspoint.com/programming_examples/) ```Crawler``` snippets
 * [CSS Tricks](https://css-tricks.com/snippets/)
 * [Crazy Programmer](https://www.thecrazyprogrammer.com)
@@ -35,6 +38,7 @@ This repo consists of notebooks and crawlers that scrape:
 * [Project Euler](https://projecteuler.net/archives)
 * [ProjectGutenberg](https://www.gutenberg.org/)
 * [Python Snyppets](https://snippets.readthedocs.io/en/latest/)
+* [Quotes2Scrape-Scroll](http://quotes.toscrape.com/scroll) ```Automated Browser```
 * [Reddit-Ask Reddit](https://www.reddit.com/r/AskReddit/)
 * [Reddit-Explain Like I'm Five](https://www.reddit.com/r/explainlikeimfive/)
 * [Reddit-Life Pro Tips](https://www.reddit.com/r/LifeProTips/)
@@ -55,3 +59,5 @@ scrapy crawl <crawler name> -o <outfilename>
 ```
 * Notebooks:
       Just run them in any jupyter environment
+* Automated Browser:
+    Make sure you have got chrome driver installed from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads) before running the notebook
