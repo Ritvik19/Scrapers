@@ -22,6 +22,10 @@ pip intall praw
 ```
 pip install selenium
 ```
+* Pdfkit (For saving Webpages as pdf)
+```
+pip install pdfkit
+```
 This repo consists of notebooks, scripts for automated browsers and crawlers that scrape:
 * [Books2Scrape](https://books.toscrape.com) ```Crawler```
 * [Quotes2Scrape](https://quotes.toscrape.com) ```Crawler```
@@ -34,6 +38,7 @@ This repo consists of notebooks, scripts for automated browsers and crawlers tha
 * [Java](https://jaxenter.com/15-useful-code-snippets-java-developers-131796.html)
 * [Jonas John](http://www.jonasjohn.de/snippets/all.htm)
 * [jQuery](https://www.thecrazyprogrammer.com/2015/01/useful-jquery-code-snippets.html)
+* [Medium-collections](https://medium.com/collections)
 * OnThisDay: crawls through [On This Day](https://www.onthisday.com/) and [Britannica](https://www.britannica.com/on-this-day) to fetch data into json format
 * [Project Euler](https://projecteuler.net/archives)
 * [ProjectGutenberg](https://www.gutenberg.org/)
