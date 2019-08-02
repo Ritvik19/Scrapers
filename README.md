@@ -47,6 +47,7 @@ This repo consists of notebooks, scripts for automated browsers and crawlers tha
 * [Reddit-answers](https://www.reddit.com/r/answers/)
 * [Reddit-Ask Me Anything](https://www.reddit.com/r/AMA/)
 * [Reddit-Ask Reddit](https://www.reddit.com/r/AskReddit/)
+* [Reddit-Ask Science](https://www.reddit.com/r/askscience/)
 * [Reddit-Explain Like I'm Five](https://www.reddit.com/r/explainlikeimfive/)
 * [Reddit-Life Pro Tips](https://www.reddit.com/r/LifeProTips/)
 * [Reddit-Shower Thoughts](https://www.reddit.com/r/Showerthoughts/)
