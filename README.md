@@ -29,7 +29,7 @@ pip install pdfkit
 This repo consists of notebooks, scripts for automated browsers and crawlers that scrape:
 * [Books2Scrape](https://books.toscrape.com) ```Crawler```
 * [Quotes2Scrape](https://quotes.toscrape.com) ```Crawler```
-* [TutorialsPoint](https://www.tutorialspoint.com/programming_examples/) ```Crawler``` snippets
+* [TutorialsPoint](https://www.tutorialspoint.com/programming_examples/) ```Crawler```
 * [CSS Tricks](https://css-tricks.com/snippets/)
 * [Crazy Programmer](https://www.thecrazyprogrammer.com)
 * Image Crawler: Downloads all images from a webpage
@@ -44,6 +44,7 @@ This repo consists of notebooks, scripts for automated browsers and crawlers tha
 * [ProjectGutenberg](https://www.gutenberg.org/)
 * [Python Snyppets](https://snippets.readthedocs.io/en/latest/)
 * [Quotes2Scrape-Scroll](http://quotes.toscrape.com/scroll) ```Automated Browser```
+* [Reddit-answers](https://www.reddit.com/r/answers/)
 * [Reddit-Ask Reddit](https://www.reddit.com/r/AskReddit/)
 * [Reddit-Explain Like I'm Five](https://www.reddit.com/r/explainlikeimfive/)
 * [Reddit-Life Pro Tips](https://www.reddit.com/r/LifeProTips/)
