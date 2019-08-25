@@ -4,28 +4,19 @@ _The Master of Whisperers_
 
 > My little birds are everywhere, and they whisper to me the strangest stories...
 
-Web Scraper for various websites
+Web Scrapers for various websites
 
-Just run any notebook to scrape the corresponding website,
-
-dependencies:
-* Anaconda Python Distribution
+Dependencies:
+* Anaconda Distribution for Python
 * Scrapy Library
-```
-pip install scrapy
-```
+```pip install scrapy```
 * PRAW
-```
-pip intall praw
-```
+```pip intall praw```
 * Selenium
-```
-pip install selenium
-```
+```pip install selenium```
 * Pdfkit (For saving Webpages as pdf)
-```
-pip install pdfkit
-```
+```pip install pdfkit```
+
 This repo consists of notebooks, scripts for automated browsers and crawlers that scrape:
 * [Books2Scrape](https://books.toscrape.com) ```Crawler```
 * [Quotes2Scrape](https://quotes.toscrape.com) ```Crawler```
@@ -63,9 +54,7 @@ This repo consists of notebooks, scripts for automated browsers and crawlers tha
 Instructions:
 * Crawlers:
       Traverse to the directory in the command line and type
-```
-scrapy crawl <crawler name> -o <outfilename>
-```
+```scrapy crawl <crawler name> -o <outfilename>```
 * Notebooks:
       Just run them in any jupyter environment
 * Automated Browser:
