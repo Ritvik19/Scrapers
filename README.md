@@ -24,6 +24,7 @@ This repo consists of notebooks, scripts for automated browsers and crawlers tha
 * [Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/): scrapes the defintion of word
 * [CSS Tricks](https://css-tricks.com/snippets/)
 * [Crazy Programmer](https://www.thecrazyprogrammer.com)
+* [Cricbuzz](https://www.cricbuzz.com): live cricet scores
 * [GitHub Profile Heatmap](https://github.com/Ritvik19/): scrapes the heatmap of any github profile
 * [Google Images Scrapper](https://www.google.com/imghp?hl=en) ```Automated Browser``` 
 * Image Crawler: Downloads all images from a webpage
