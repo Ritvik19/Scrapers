@@ -1,4 +1,4 @@
-# Lord-Pyrys
+# Lord-Varys
 
 _The Master of Whisperers_
 
