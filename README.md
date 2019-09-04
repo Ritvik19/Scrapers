@@ -34,6 +34,7 @@ This repo consists of notebooks, scripts for automated browsers and crawlers tha
 * [Jonas John](http://www.jonasjohn.de/snippets/all.htm)
 * [jQuery](https://www.thecrazyprogrammer.com/2015/01/useful-jquery-code-snippets.html)
 * [Medium-collections](https://medium.com/collections)
+* [NASA APOD](https://api.nasa.gov/): Astronomy Picture of the Day ```API```
 * OnThisDay: crawls through [On This Day](https://www.onthisday.com/) and [Britannica](https://www.britannica.com/on-this-day) to fetch data into json format
 * [Project Euler](https://projecteuler.net/archives)
 * [ProjectGutenberg](https://www.gutenberg.org/)
@@ -52,7 +53,7 @@ This repo consists of notebooks, scripts for automated browsers and crawlers tha
 * [Snipplr](https://snipplr.com/popular/language)
 * [Stackoverflow](https://stackoverflow.com): scrapes the result for a query
 * [Syntax DB](https://syntaxdb.com/reference)
-* [Weather](https://openweathermap.org/) : provides current weather info or 5 day forecast for a city
+* [Weather](https://openweathermap.org/) : provides current weather info or 5 day forecast for a city ```API```
 * Website Info: provides various info about a website using [Alexa](https://www.alexa.com/siteinfo/) and [Whois](https://www.whois.com/)
 
 Instructions:
