@@ -53,6 +53,7 @@ This repo consists of notebooks, scripts for automated browsers and crawlers tha
 * [Snipplr](https://snipplr.com/popular/language)
 * [Stackoverflow](https://stackoverflow.com): scrapes the result for a query
 * [Syntax DB](https://syntaxdb.com/reference)
+* [They Said So](https://theysaidso.com/api/) Quote of the day ```API```
 * [Weather](https://openweathermap.org/) : provides current weather info or 5 day forecast for a city ```API```
 * Website Info: provides various info about a website using [Alexa](https://www.alexa.com/siteinfo/) and [Whois](https://www.whois.com/)
 
