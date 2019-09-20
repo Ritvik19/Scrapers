@@ -16,6 +16,8 @@ Dependencies:
 ```pip install selenium```
 * Pdfkit (For saving Webpages as pdf)
 ```pip install pdfkit```
+* Spotipy
+```pip install spotipy```
 
 This repo consists of notebooks, scripts for automated browsers and crawlers that scrape:
 * [Books2Scrape](https://books.toscrape.com) ```Crawler```
@@ -51,6 +53,7 @@ This repo consists of notebooks, scripts for automated browsers and crawlers tha
 * [Reddit-wikipedia](https://www.reddit.com/r/wikipedia/)
 * [Seb Sauvage](https://sebsauvage.net/python/snyppets/)
 * [Snipplr](https://snipplr.com/popular/language)
+* [Spotify](https://www.spotify.com/in/) ```API```
 * [Stackoverflow](https://stackoverflow.com): scrapes the result for a query
 * [Syntax DB](https://syntaxdb.com/reference)
 * [They Said So](https://theysaidso.com/api/) Quote of the day ```API```
