@@ -28,6 +28,7 @@ This repo consists of notebooks, scripts for automated browsers and crawlers tha
 * [Crazy Programmer](https://www.thecrazyprogrammer.com)
 * [Cricbuzz](https://www.cricbuzz.com): live cricet scores
 * [GitHub Profile Heatmap](https://github.com/Ritvik19/): scrapes the heatmap of any github profile
+* [Goodreads-Quotes](https://www.goodreads.com/quotes)
 * [Google Images Scrapper](https://www.google.com/imghp?hl=en) ```Automated Browser``` 
 * Image Crawler: Downloads all images from a webpage
 * [IncludeHelp code-snippets](https://www.includehelp.com/code-snippets/)
