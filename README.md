@@ -23,6 +23,7 @@ This repo consists of notebooks, scripts for automated browsers and crawlers tha
 * [Books2Scrape](https://books.toscrape.com) ```Crawler```
 * [Quotes2Scrape](https://quotes.toscrape.com) ```Crawler```
 * [TutorialsPoint](https://www.tutorialspoint.com/programming_examples/) ```Crawler```
+* [Brainy Quote](https://www.brainyquote.com) ```Automated Browser``` 
 * [Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/): scrapes the defintion of word
 * [CSS Tricks](https://css-tricks.com/snippets/)
 * [Crazy Programmer](https://www.thecrazyprogrammer.com)
