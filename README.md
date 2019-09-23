@@ -37,6 +37,7 @@ This repo consists of notebooks, scripts for automated browsers and crawlers tha
 * [Java](https://jaxenter.com/15-useful-code-snippets-java-developers-131796.html)
 * [Jonas John](http://www.jonasjohn.de/snippets/all.htm)
 * [jQuery](https://www.thecrazyprogrammer.com/2015/01/useful-jquery-code-snippets.html)
+* [Keep Inspiring](https://www.keepinspiring.me/category/quotes/)
 * [Medium-collections](https://medium.com/collections)
 * [NASA APOD](https://api.nasa.gov/): Astronomy Picture of the Day ```API```
 * OnThisDay: crawls through [On This Day](https://www.onthisday.com/) and [Britannica](https://www.britannica.com/on-this-day) to fetch data into json format
