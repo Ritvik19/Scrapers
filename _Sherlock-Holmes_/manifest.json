@@ -1,0 +1,21 @@
+{
+  "name": "Sherlock Homles",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Webpage Scrapper",
+  "homepage_url": "https://ritvik19.github.io",
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": true
+  },
+  "browser_action": {
+    "default_title": "Scrape!"
+  },
+  "permissions": [
+    "https://*/*",
+    "http://*/*",
+    "tabs"
+  ]
+}

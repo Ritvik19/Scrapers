@@ -23,14 +23,14 @@ This repo consists of notebooks, scripts for automated browsers and crawlers tha
 * [Books2Scrape](https://books.toscrape.com) ```Crawler```
 * [Quotes2Scrape](https://quotes.toscrape.com) ```Crawler```
 * [TutorialsPoint](https://www.tutorialspoint.com/programming_examples/) ```Crawler```
-* [Brainy Quote](https://www.brainyquote.com) ```Automated Browser``` 
+* [Brainy Quote](https://www.brainyquote.com) ```Automated Browser```
 * [Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/): scrapes the defintion of word
 * [CSS Tricks](https://css-tricks.com/snippets/)
 * [Crazy Programmer](https://www.thecrazyprogrammer.com)
 * [Cricbuzz](https://www.cricbuzz.com): live cricet scores
 * [GitHub Profile Heatmap](https://github.com/Ritvik19/): scrapes the heatmap of any github profile
 * [Goodreads-Quotes](https://www.goodreads.com/quotes)
-* [Google Images Scrapper](https://www.google.com/imghp?hl=en) ```Automated Browser``` 
+* [Google Images Scrapper](https://www.google.com/imghp?hl=en) ```Automated Browser```
 * Image Crawler: Downloads all images from a webpage
 * [IncludeHelp code-snippets](https://www.includehelp.com/code-snippets/)
 * [Inshorts](https://inshorts.com/en/read)
@@ -62,6 +62,9 @@ This repo consists of notebooks, scripts for automated browsers and crawlers tha
 * [They Said So](https://theysaidso.com/api/) Quote of the day ```API```
 * [Weather](https://openweathermap.org/) : provides current weather info or 5 day forecast for a city ```API```
 * Website Info: provides various info about a website using [Alexa](https://www.alexa.com/siteinfo/) and [Whois](https://www.whois.com/)
+
+Also there is a ```Chrome Extension``` to scrape Webpages
+      Sherlock-Holmes
 
 Instructions:
 * Crawlers:
