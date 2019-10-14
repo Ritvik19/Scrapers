@@ -55,6 +55,7 @@ This repo consists of notebooks, scripts for automated browsers and crawlers tha
 * [Reddit-Today I Learned](https://www.reddit.com/r/todayilearned/)
 * [Reddit-wikipedia](https://www.reddit.com/r/wikipedia/)
 * [Seb Sauvage](https://sebsauvage.net/python/snyppets/)
+* [SixWordStories](https://http://www.sixwordstories.net/)
 * [Snipplr](https://snipplr.com/popular/language)
 * [Spotify](https://www.spotify.com/in/) ```API```
 * [Stackoverflow](https://stackoverflow.com): scrapes the result for a query
