@@ -40,6 +40,7 @@ This repo consists of notebooks, scripts for automated browsers and crawlers tha
 * [Keep Inspiring](https://www.keepinspiring.me/category/quotes/)
 * [Medium-collections](https://medium.com/collections)
 * [NASA APOD](https://api.nasa.gov/): Astronomy Picture of the Day ```API```
+* [OneLineFun](https://onelinefun.com)
 * OnThisDay: crawls through [On This Day](https://www.onthisday.com/) and [Britannica](https://www.britannica.com/on-this-day) to fetch data into json format
 * [Project Euler](https://projecteuler.net/archives)
 * [ProjectGutenberg](https://www.gutenberg.org/)
