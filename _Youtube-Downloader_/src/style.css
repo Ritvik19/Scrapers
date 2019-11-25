@@ -1,0 +1,28 @@
+#videoDownloadDropdown{
+  width: 200px;
+  height: 100px;
+  background: white;
+  position: absolute;
+  z-index: 999999;
+  border: 1px solid #ddd;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+  display: none;
+  overflow-y: scroll;
+}
+
+#videoDownloadDropdown.shown{
+  display: block;
+}
+
+#videoDownloadDropdown ul{
+  list-style: none;
+}
+
+#videoDownloadDropdown ul a{
+  display: block;
+  color: #bbb;
+  padding: 2px;
+  text-decoration: none;
+  border: solid 1px #ddd;
+  margin-left: -40px;
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Youtube Downloader",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "description": "Webpage Scrapper",
+    "homepage_url": "https://ritvik19.github.io",
+    "web_accessible_resources": ["src/youtubedl.js"],
+    "content_scripts": [{
+        "matches": ["https://www.youtube.com/watch*"],
+        "js": ["src/loader.js"],
+        "css": ["src/style.css"]
+    }]
+}

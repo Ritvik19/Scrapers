@@ -19,7 +19,9 @@ Dependencies:
 * Spotipy
 ```pip install spotipy```
 
-This repo consists of notebooks, scripts for automated browsers and crawlers that scrape:
+This repo consists of chrome extensions,  notebooks, scripts for automated browsers and crawlers that scrape:
+* [Youtube-Downloader](https://www.youtube.com): Downloads YouTube Videos ```Chrome Extension```
+* Sherlock-Holmes: General Purpose Webpage scrapper ```Chrome Extension```
 * [Books2Scrape](https://books.toscrape.com) ```Crawler```
 * [Quotes2Scrape](https://quotes.toscrape.com) ```Crawler```
 * [TutorialsPoint](https://www.tutorialspoint.com/programming_examples/) ```Crawler```
@@ -65,9 +67,6 @@ This repo consists of notebooks, scripts for automated browsers and crawlers tha
 * [They Said So](https://theysaidso.com/api/) Quote of the day ```API```
 * [Weather](https://openweathermap.org/) : provides current weather info or 5 day forecast for a city ```API```
 * Website Info: provides various info about a website using [Alexa](https://www.alexa.com/siteinfo/) and [Whois](https://www.whois.com/)
-
-Also there is a ```Chrome Extension``` to scrape Webpages
-      Sherlock-Holmes
 
 Instructions:
 * Crawlers:
