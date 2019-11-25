@@ -28,7 +28,7 @@ This repo consists of notebooks, scripts for automated browsers and crawlers tha
 * [CSS Tricks](https://css-tricks.com/snippets/)
 * [Crazy Programmer](https://www.thecrazyprogrammer.com)
 * [Cricbuzz](https://www.cricbuzz.com): live cricket scores
-* [EmailCrawler]: Extract Email Address from a website
+* EmailCrawler: Extract Email Address from a website
 * [GitHub Profile Heatmap](https://github.com/Ritvik19/): scrapes the heatmap of any github profile
 * [Goodreads-Quotes](https://www.goodreads.com/quotes)
 * [Google Images Scrapper](https://www.google.com/imghp?hl=en) ```Automated Browser```
