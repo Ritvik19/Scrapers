@@ -23,8 +23,30 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 * [Youtube-Downloader](https://www.youtube.com): Downloads YouTube Videos ```Chrome Extension```
 * Sherlock-Holmes: General Purpose Webpage scrapper ```Chrome Extension```
 * [Books2Scrape](https://books.toscrape.com) ```Crawler```
+ 
+      scrapy crawl books
+      
+* [CodeChef](https://www.codechef.com/) ```Crawler```
+
+      scrapy crawl beginner
+      scrapy crawl easy
+      scrapy crawl medium
+      scrapy crawl hard
+      scrapy crawl challenge
+      scrapy crawl peer
+
 * [Quotes2Scrape](https://quotes.toscrape.com) ```Crawler```
+
+      scrapy crawl quotes
+
+* [Syntax DB](https://syntaxdb.com/reference) ```Crawler```
+
+      scrapy crawl snippets
+
 * [TutorialsPoint](https://www.tutorialspoint.com/programming_examples/) ```Crawler```
+
+      scrapy crawl snippets
+
 * [Brainy Quote](https://www.brainyquote.com) ```Automated Browser```
 * [Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/): scrapes the defintion of word
 * [CSS Tricks](https://css-tricks.com/snippets/)
