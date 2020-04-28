@@ -28,12 +28,18 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
       
 * [CodeChef](https://www.codechef.com/) ```Crawler```
 
+      
+      scrapy crawl all
       scrapy crawl beginner
       scrapy crawl easy
       scrapy crawl medium
       scrapy crawl hard
       scrapy crawl challenge
       scrapy crawl peer
+
+* [Project Euler](https://projecteuler.net/archives) ```Crawler```
+      
+      scrapy crawl problems
 
 * [Quotes2Scrape](https://quotes.toscrape.com) ```Crawler```
 
@@ -67,7 +73,6 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 * [NASA APOD](https://api.nasa.gov/): Astronomy Picture of the Day ```API```
 * [OneLineFun](https://onelinefun.com)
 * OnThisDay: crawls through [On This Day](https://www.onthisday.com/) and [Britannica](https://www.britannica.com/on-this-day) to fetch data into json format
-* [Project Euler](https://projecteuler.net/archives)
 * [ProjectGutenberg](https://www.gutenberg.org/)
 * [Python Snyppets](https://snippets.readthedocs.io/en/latest/)
 * [Quotes2Scrape-Scroll](http://quotes.toscrape.com/scroll) ```Automated Browser```
@@ -85,7 +90,6 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 * [Snipplr](https://snipplr.com/popular/language)
 * [Spotify](https://www.spotify.com/in/) ```API```
 * [Stackoverflow](https://stackoverflow.com): scrapes the result for a query
-* [Syntax DB](https://syntaxdb.com/reference)
 * [They Said So](https://theysaidso.com/api/) Quote of the day ```API```
 * [Weather](https://openweathermap.org/) : provides current weather info or 5 day forecast for a city ```API```
 * Website Info: provides various info about a website using [Alexa](https://www.alexa.com/siteinfo/) and [Whois](https://www.whois.com/)
