@@ -55,6 +55,11 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 
       scrapy crawl quotes
 
+* [SlickDeals](https://slickdeals.net/deal-categories/) ```Crawler```
+
+      scrapy crawl computer
+
+
 * [Syntax DB](https://syntaxdb.com/reference) ```Crawler```
 
       scrapy crawl snippets
