@@ -8,8 +8,10 @@ Web Scrapers for various websites
 
 Dependencies:
 * Anaconda Distribution for Python
-* Scrapy Library
+* Scrapy
 ```pip install scrapy```
+* Scrapy-Selenium
+```pip install scrapy-selenium```
 * PRAW
 ```pip intall praw```
 * Selenium
@@ -36,6 +38,14 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
       scrapy crawl hard
       scrapy crawl challenge
       scrapy crawl peer
+
+* [IMDB](https://www.imdb.com/chart/top) ```Crawler```
+
+      scrapy crawl best_movies
+
+* [LiveCoin](https://www.livecoin.net/en) ```Crawler```
+
+      scrapy crawl livecoin
 
 * [Project Euler](https://projecteuler.net/archives) ```Crawler```
       
