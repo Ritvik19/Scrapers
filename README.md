@@ -43,6 +43,23 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 
       scrapy crawl best_movies
 
+* [Inshorts](https://inshorts.com/en/read) ```Crawler```
+
+      scrapy crawl automobile
+      scrapy crawl business
+      scrapy crawl entertainment
+      scrapy crawl hatke
+      scrapy crawl home
+      scrapy crawl miscellaneous
+      scrapy crawl national
+      scrapy crawl politics
+      scrapy crawl science
+      scrapy crawl sports
+      scrapy crawl sports
+      scrapy crawl startup
+      scrapy crawl technology
+      scrapy crawl world
+
 * [LiveCoin](https://www.livecoin.net/en) ```Crawler```
 
       scrapy crawl livecoin
@@ -79,7 +96,6 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 * [Google Images Scrapper](https://www.google.com/imghp?hl=en) ```Automated Browser```
 * Image Crawler: Downloads all images from a webpage
 * [IncludeHelp code-snippets](https://www.includehelp.com/code-snippets/)
-* [Inshorts](https://inshorts.com/en/read)
 * [Java](https://jaxenter.com/15-useful-code-snippets-java-developers-131796.html)
 * [Jonas John](http://www.jonasjohn.de/snippets/all.htm)
 * [jQuery](https://www.thecrazyprogrammer.com/2015/01/useful-jquery-code-snippets.html)
