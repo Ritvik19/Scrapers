@@ -24,6 +24,16 @@ Dependencies:
 This repo consists of chrome extensions,  notebooks, scripts for automated browsers and crawlers that scrape:
 * [Youtube-Downloader](https://www.youtube.com): Downloads YouTube Videos ```Chrome Extension```
 * Sherlock-Holmes: General Purpose Webpage scrapper ```Chrome Extension```
+* [AltNews](https://www.altnews.in) ```Crawler```
+  
+      scrapy crawl education
+      scrapy crawl news
+      scrapy crawl politics
+      scrapy crawl religion
+      scrapy crawl science
+      scrapy crawl society
+
+
 * [Books2Scrape](https://books.toscrape.com) ```Crawler```
  
       scrapy crawl books
