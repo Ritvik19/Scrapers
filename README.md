@@ -39,7 +39,6 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
       scrapy crawl books
       
 * [CodeChef](https://www.codechef.com/) ```Crawler```
-
       
       scrapy crawl all
       scrapy crawl beginner
@@ -48,6 +47,11 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
       scrapy crawl hard
       scrapy crawl challenge
       scrapy crawl peer
+
+* [CodeChef](https://codeforces.com/) ```Crawler```
+      
+      scrapy crawl problems
+
 
 * [IMDB](https://www.imdb.com/chart/top) ```Crawler```
 
