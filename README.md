@@ -86,6 +86,10 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 
       scrapy crawl quotes
 
+* [RVCJ](http://rvcj.com/) ```Crawler```
+
+      scrapy crawl rvcj
+
 * [SlickDeals](https://slickdeals.net/deal-categories/) ```Crawler```
 
       scrapy crawl computer
