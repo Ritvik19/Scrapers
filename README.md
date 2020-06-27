@@ -103,6 +103,10 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 
       scrapy crawl snippets
 
+* [ViralNova](https://viralnova.com/) ```Crawler```
+
+      scrapy crawl viralnova
+
 * [Brainy Quote](https://www.brainyquote.com) ```Automated Browser```
 * [Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/): scrapes the defintion of word
 * [CSS Tricks](https://css-tricks.com/snippets/)
