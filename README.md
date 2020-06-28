@@ -117,6 +117,9 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 
       scrapy crawl computer
 
+* [Swarajya](https://swarajyamag.com/) ```Crawler```
+
+      scrapy crawl api
 
 * [Syntax DB](https://syntaxdb.com/reference) ```Crawler```
 
