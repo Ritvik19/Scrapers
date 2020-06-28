@@ -97,7 +97,11 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
       scrapy crawl variety
       scrapy crawl virtualworld
 
-* [Project Euler](https://projecteuler.net/archives) ```Crawler```
+* [PostcardNews](https://postcard.news/timeline) ```Crawler```
+      
+      scrapy crawl timeline
+
+* [ProjectEuler](https://projecteuler.net/archives) ```Crawler```
       
       scrapy crawl problems
 
