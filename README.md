@@ -78,6 +78,25 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 
       scrapy crawl livecoin
 
+* [OpIndia](https://www.opindia.com/) ```Crawler```
+      
+      scrapy crawl opindia
+
+      scrapy crawl crime
+      scrapy crawl economy
+      scrapy crawl entertainment
+      scrapy crawl explainer
+      scrapy crawl factcheck
+      scrapy crawl government
+      scrapy crawl law
+      scrapy crawl media
+      scrapy crawl opinions
+      scrapy crawl politicalhistory
+      scrapy crawl politics
+      scrapy crawl sports
+      scrapy crawl variety
+      scrapy crawl virtualworld
+
 * [Project Euler](https://projecteuler.net/archives) ```Crawler```
       
       scrapy crawl problems
