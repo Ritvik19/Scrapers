@@ -78,6 +78,10 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 
       scrapy crawl livecoin
 
+* [OneLineFun](https://onelinefun.com) ```Crawler```
+
+      scrapy crawl oneliners
+      
 * [OpIndia](https://www.opindia.com/) ```Crawler```
       
       scrapy crawl opindia
@@ -154,7 +158,6 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 * [Keep Inspiring](https://www.keepinspiring.me/category/quotes/)
 * [Medium-collections](https://medium.com/collections)
 * [NASA APOD](https://api.nasa.gov/): Astronomy Picture of the Day ```API```
-* [OneLineFun](https://onelinefun.com)
 * OnThisDay: crawls through [On This Day](https://www.onthisday.com/) and [Britannica](https://www.britannica.com/on-this-day) to fetch data into json format
 * [ProjectGutenberg](https://www.gutenberg.org/)
 * [Python Snyppets](https://snippets.readthedocs.io/en/latest/)
