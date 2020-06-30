@@ -74,6 +74,10 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
       scrapy crawl technology
       scrapy crawl world
 
+* [JantaKaReporter](http://www.jantakareporter.com/) ```Crawler```
+
+      scrapy crawl news
+
 * [Keep Inspiring](https://www.keepinspiring.me/category/quotes/) ```Crawler```
 
       scrapy crawl quotes
