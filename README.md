@@ -136,6 +136,10 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 
       scrapy crawl rvcj
 
+* [ScoopWhoop](https://www.scoopwhoop.com/) ```Crawler```
+
+      scrapy crawl stories
+
 * [SlickDeals](https://slickdeals.net/deal-categories/) ```Crawler```
 
       scrapy crawl computer
