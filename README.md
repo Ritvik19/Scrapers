@@ -86,6 +86,17 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 
       scrapy crawl livecoin
 
+* [MensXP](https://www.mensxp.com/) ```Crawler```
+
+      scrapy crawl culture
+      scrapy crawl entertainment
+      scrapy crawl fashion
+      scrapy crawl grooming
+      scrapy crawl relationships
+      scrapy crawl social
+      scrapy crawl sports
+      scrapy crawl technology
+
 * [OneLineFun](https://onelinefun.com) ```Crawler```
 
       scrapy crawl oneliners
