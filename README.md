@@ -156,6 +156,10 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 
       scrapy crawl stories
 
+* [TheWire](https://thewire.in/) ```Crawler```
+
+      scrapy crawl posts
+
 * [TutorialsPoint](https://www.tutorialspoint.com/programming_examples/) ```Crawler```
 
       scrapy crawl snippets
