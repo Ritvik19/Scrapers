@@ -152,6 +152,10 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 
       scrapy crawl snippets
 
+* [TheWeek](https://www.theweek.in/home.html) ```Crawler```
+
+      scrapy crawl stories
+
 * [TutorialsPoint](https://www.tutorialspoint.com/programming_examples/) ```Crawler```
 
       scrapy crawl snippets
