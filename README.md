@@ -61,6 +61,26 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 
       scrapy crawl best_movies
 
+* [IndiaTV](https://www.indiatvnews.com/) ```Crawler```
+
+      scrapy crawl auto
+      scrapy crawl brandcontent
+      scrapy crawl business
+      scrapy crawl crime
+      scrapy crawl education
+      scrapy crawl entertainment
+      scrapy crawl fyi
+      scrapy crawl health
+      scrapy crawl india
+      scrapy crawl jobs
+      scrapy crawl lifestyle
+      scrapy crawl politics
+      scrapy crawl science
+      scrapy crawl sports
+      scrapy crawl technology
+      scrapy crawl trending
+      scrapy crawl world
+
 * [Inshorts](https://inshorts.com/en/read) ```Crawler```
 
       scrapy crawl automobile
