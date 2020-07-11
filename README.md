@@ -176,6 +176,10 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 
       scrapy crawl snippets
 
+* [TFIPost](https://tfipost.com/) ```Crawler```
+
+      scrapy crawl posts
+
 * [TheWeek](https://www.theweek.in/home.html) ```Crawler```
 
       scrapy crawl stories
