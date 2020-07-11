@@ -164,6 +164,11 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 
       scrapy crawl stories
 
+* [Shine_com](https://shine.com/) ```Crawler```
+
+      scrapy crawl accounting-jobs
+      scrapy crawl finance-accounts-investment-banking-jobs
+
 * [SlickDeals](https://slickdeals.net/deal-categories/) ```Crawler```
 
       scrapy crawl computer
