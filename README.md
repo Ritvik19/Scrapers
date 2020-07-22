@@ -140,7 +140,6 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
       scrapy crawl towardsdatascience -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
       scrapy crawl uxcollective -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
 
-
 * [MensXP](https://www.mensxp.com/) ```Crawler```
 
       scrapy crawl culture
@@ -182,6 +181,10 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 * [ProjectEuler](https://projecteuler.net/archives) ```Crawler```
       
       scrapy crawl problems
+
+* [Pypi](https://pypi.org) ```Crawler```
+      
+      scrapy crawl packagedependency -a package="packagename"
 
 * [Quotes2Scrape](https://quotes.toscrape.com) ```Crawler```
 
