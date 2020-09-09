@@ -231,6 +231,10 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 
       scrapy crawl posts
 
+* [They Said So](https://theysaidso.com/api/) ```Crawler```
+
+      scrapy crawl qod
+
 * [TutorialsPoint](https://www.tutorialspoint.com/programming_examples/) ```Crawler```
 
       scrapy crawl snippets
@@ -268,7 +272,6 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 * [Snipplr](https://snipplr.com/popular/language)
 * [Spotify](https://www.spotify.com/in/) ```API```
 * [Stackoverflow](https://stackoverflow.com): scrapes the result for a query
-* [They Said So](https://theysaidso.com/api/) Quote of the day ```API```
 * [Weather](https://openweathermap.org/) : provides current weather info or 5 day forecast for a city ```API```
 * Website Info: provides various info about a website using [Alexa](https://www.alexa.com/siteinfo/) and [Whois](https://www.whois.com/)
 
