@@ -190,6 +190,10 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 
       scrapy crawl quotes
 
+* [Reddit](http://reddit.com/) ```Crawler```
+
+      scrapy crawl reddit -a subreddit="subreddit-name"      
+
 * [RVCJ](http://rvcj.com/) ```Crawler```
 
       scrapy crawl rvcj
@@ -259,15 +263,6 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 * [ProjectGutenberg](https://www.gutenberg.org/)
 * [Python Snyppets](https://snippets.readthedocs.io/en/latest/)
 * [Quotes2Scrape-Scroll](http://quotes.toscrape.com/scroll) ```Automated Browser```
-* [Reddit-answers](https://www.reddit.com/r/answers/)
-* [Reddit-Ask Me Anything](https://www.reddit.com/r/AMA/)
-* [Reddit-Ask Reddit](https://www.reddit.com/r/AskReddit/)
-* [Reddit-Ask Science](https://www.reddit.com/r/askscience/)
-* [Reddit-Explain Like I'm Five](https://www.reddit.com/r/explainlikeimfive/)
-* [Reddit-Life Pro Tips](https://www.reddit.com/r/LifeProTips/)
-* [Reddit-Shower Thoughts](https://www.reddit.com/r/Showerthoughts/)
-* [Reddit-Today I Learned](https://www.reddit.com/r/todayilearned/)
-* [Reddit-wikipedia](https://www.reddit.com/r/wikipedia/)
 * [Seb Sauvage](https://sebsauvage.net/python/snyppets/)
 * [SixWordStories](https://http://www.sixwordstories.net/)
 * [Snipplr](https://snipplr.com/popular/language)
