@@ -9,17 +9,11 @@ Web Scrapers for various websites
 Dependencies:
 * Anaconda Distribution for Python
 * Scrapy
-```pip install scrapy```
 * Scrapy-Selenium
-```pip install scrapy-selenium```
 * PRAW
-```pip intall praw```
 * Selenium
-```pip install selenium```
 * Pdfkit (For saving Webpages as pdf)
-```pip install pdfkit```
 * Spotipy
-```pip install spotipy```
 
 This repo consists of chrome extensions,  notebooks, scripts for automated browsers and crawlers that scrape:
 * [Youtube-Downloader](https://www.youtube.com): Downloads YouTube Videos ```Chrome Extension```
@@ -52,10 +46,13 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
       scrapy crawl challenge
       scrapy crawl peer
 
-* [CodeChef](https://codeforces.com/) ```Crawler```
+* [CodeForces](https://codeforces.com/) ```Crawler```
       
       scrapy crawl problems
 
+* [Github](https://github.com) ```Crawler```
+  
+      scrapy crawl profileheatmap -a username=<username>
 
 * [IMDB](https://www.imdb.com/chart/top) ```Crawler```
 
@@ -253,7 +250,6 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 * [Crazy Programmer](https://www.thecrazyprogrammer.com)
 * [Cricbuzz](https://www.cricbuzz.com): live cricket scores
 * EmailCrawler: Extract Email Address from a website
-* [GitHub Profile Heatmap](https://github.com/Ritvik19/): scrapes the heatmap of any github profile
 * [Goodreads-Quotes](https://www.goodreads.com/quotes)
 * [Google Images Scrapper](https://www.google.com/imghp?hl=en) ```Automated Browser```
 * Image Crawler: Downloads all images from a webpage
