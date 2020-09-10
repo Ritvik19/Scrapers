@@ -19,7 +19,7 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 * [Youtube-Downloader](https://www.youtube.com): Downloads YouTube Videos ```Chrome Extension```
 * Sherlock-Holmes: General Purpose Webpage scrapper ```Chrome Extension```
 
-* [AltNews](https://www.altnews.in) ```Crawler```
+* [AltNews](https://www.altnews.in)
   
       scrapy crawl education
       scrapy crawl news
@@ -28,15 +28,15 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
       scrapy crawl science
       scrapy crawl society
 
-* [ANI](https://aninews.in/) ```Crawler```
+* [ANI](https://aninews.in/)
   
       scrapy crawl news
 
-* [Books2Scrape](https://books.toscrape.com) ```Crawler```
+* [Books2Scrape](https://books.toscrape.com)
  
       scrapy crawl books
       
-* [CodeChef](https://www.codechef.com/) ```Crawler```
+* [CodeChef](https://www.codechef.com/)
       
       scrapy crawl all
       scrapy crawl beginner
@@ -46,19 +46,19 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
       scrapy crawl challenge
       scrapy crawl peer
 
-* [CodeForces](https://codeforces.com/) ```Crawler```
+* [CodeForces](https://codeforces.com/)
       
       scrapy crawl problems
 
-* [Github](https://github.com) ```Crawler```
+* [Github](https://github.com)
   
       scrapy crawl profileheatmap -a username=<username>
 
-* [IMDB](https://www.imdb.com/chart/top) ```Crawler```
+* [IMDB](https://www.imdb.com/chart/top)
 
       scrapy crawl best_movies
 
-* [IndiaTV](https://www.indiatvnews.com/) ```Crawler```
+* [IndiaTV](https://www.indiatvnews.com/)
 
       scrapy crawl auto
       scrapy crawl brandcontent
@@ -78,7 +78,7 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
       scrapy crawl trending
       scrapy crawl world
 
-* [Inshorts](https://inshorts.com/en/read) ```Crawler```
+* [Inshorts](https://inshorts.com/en/read)
 
       scrapy crawl automobile
       scrapy crawl business
@@ -95,19 +95,19 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
       scrapy crawl technology
       scrapy crawl world
 
-* [JantaKaReporter](http://www.jantakareporter.com/) ```Crawler```
+* [JantaKaReporter](http://www.jantakareporter.com/)
 
       scrapy crawl news
 
-* [Keep Inspiring](https://www.keepinspiring.me/category/quotes/) ```Crawler```
+* [Keep Inspiring](https://www.keepinspiring.me/category/quotes/)
 
       scrapy crawl quotes
 
-* [LiveCoin](https://www.livecoin.net/en) ```Crawler```
+* [LiveCoin](https://www.livecoin.net/en)
 
       scrapy crawl livecoin
 
-* [Medium Stats](https://medium.com/): Stats for the articles of various publications ```Crawler```
+* [Medium Stats](https://medium.com/): Stats for the articles of various publications
 
       scrapy crawl analyticsvidhya -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
       scrapy crawl betterhuman -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
@@ -137,7 +137,7 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
       scrapy crawl towardsdatascience -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
       scrapy crawl uxcollective -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
 
-* [MensXP](https://www.mensxp.com/) ```Crawler```
+* [MensXP](https://www.mensxp.com/)
 
       scrapy crawl culture
       scrapy crawl entertainment
@@ -148,11 +148,15 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
       scrapy crawl sports
       scrapy crawl technology
 
-* [OneLineFun](https://onelinefun.com) ```Crawler```
+* [NASA APOD](https://api.nasa.gov/)
+
+      scrapy crawl apod
+
+* [OneLineFun](https://onelinefun.com)
 
       scrapy crawl oneliners
       
-* [OpIndia](https://www.opindia.com/) ```Crawler```
+* [OpIndia](https://www.opindia.com/)
       
       scrapy crawl opindia
 
@@ -171,80 +175,80 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
       scrapy crawl variety
       scrapy crawl virtualworld
 
-* [PostcardNews](https://postcard.news/timeline) ```Crawler```
+* [PostcardNews](https://postcard.news/timeline)
       
       scrapy crawl timeline
 
-* [ProjectEuler](https://projecteuler.net/archives) ```Crawler```
+* [ProjectEuler](https://projecteuler.net/archives)
       
       scrapy crawl problems
 
-* [Pypi](https://pypi.org) ```Crawler```
+* [Pypi](https://pypi.org)
       
       scrapy crawl packagedependency -a package=<packagename>
 
-* [Quotes2Scrape](https://quotes.toscrape.com) ```Crawler```
+* [Quotes2Scrape](https://quotes.toscrape.com)
 
       scrapy crawl quotes
 
-* [Reddit](http://reddit.com/) ```Crawler```
+* [Reddit](http://reddit.com/)
 
       scrapy crawl reddit -a subreddit=<subreddit-name>
 
-* [RVCJ](http://rvcj.com/) ```Crawler```
+* [RVCJ](http://rvcj.com/)
 
       scrapy crawl rvcj
 
-* [ScoopWhoop](https://www.scoopwhoop.com/) ```Crawler```
+* [ScoopWhoop](https://www.scoopwhoop.com/)
 
       scrapy crawl stories
 
-* [Shine_com](https://shine.com/) ```Crawler```
+* [Shine_com](https://shine.com/)
 
       scrapy crawl accounting-jobs
       scrapy crawl finance-accounts-investment-banking-jobs
 
-* [SlickDeals](https://slickdeals.net/deal-categories/) ```Crawler```
+* [SlickDeals](https://slickdeals.net/deal-categories/)
 
       scrapy crawl computer
 
-* [Swarajya](https://swarajyamag.com/) ```Crawler```
+* [Swarajya](https://swarajyamag.com/)
 
       scrapy crawl api
 
-* [Syntax DB](https://syntaxdb.com/reference) ```Crawler```
+* [Syntax DB](https://syntaxdb.com/reference)
 
       scrapy crawl snippets
 
-* [TFIPost](https://tfipost.com/) ```Crawler```
+* [TFIPost](https://tfipost.com/)
 
       scrapy crawl posts
 
-* [TheWeek](https://www.theweek.in/home.html) ```Crawler```
+* [TheWeek](https://www.theweek.in/home.html)
 
       scrapy crawl stories
 
-* [TheWire](https://thewire.in/) ```Crawler```
+* [TheWire](https://thewire.in/)
 
       scrapy crawl posts
 
-* [They Said So](https://theysaidso.com/api/) ```Crawler```
+* [They Said So](https://theysaidso.com/api/)
 
       scrapy crawl qod
 
-* [TutorialsPoint](https://www.tutorialspoint.com/programming_examples/) ```Crawler```
+* [TutorialsPoint](https://www.tutorialspoint.com/programming_examples/)
 
       scrapy crawl snippets
 
-* [ViralNova](https://viralnova.com/) ```Crawler```
+* [ViralNova](https://viralnova.com/)
 
       scrapy crawl viralnova
 
-* [ViralStories](http://viralstories.in/) ```Crawler```
+* [ViralStories](http://viralstories.in/)
 
       scrapy crawl viralstories
 
-* [Weather](https://openweathermap.org/) ```Crawler```
+* [Weather](https://openweathermap.org/)
 
       scrapy crawl weather -a city=<city>
       scrapy crawl forecast -a city=<city>
@@ -263,7 +267,6 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 * [Jonas John](http://www.jonasjohn.de/snippets/all.htm)
 * [jQuery](https://www.thecrazyprogrammer.com/2015/01/useful-jquery-code-snippets.html)
 * [Medium-collections](https://medium.com/collections)
-* [NASA APOD](https://api.nasa.gov/): Astronomy Picture of the Day ```API```
 * OnThisDay: crawls through [On This Day](https://www.onthisday.com/) and [Britannica](https://www.britannica.com/on-this-day) to fetch data into json format
 * [ProjectGutenberg](https://www.gutenberg.org/)
 * [Python Snyppets](https://snippets.readthedocs.io/en/latest/)
