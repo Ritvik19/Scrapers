@@ -109,33 +109,33 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 
 * [Medium Stats](https://medium.com/): Stats for the articles of various publications ```Crawler```
 
-      scrapy crawl analyticsvidhya -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl betterhuman -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl bettermarketing -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl betterprogramming -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl codeburst -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl dailyjs -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl datadriveninvestor -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl devbits -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl every30days -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl forge -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl freecodecamp -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl googledevelopers -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl javascriptinplainenglish -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl jupyterblog -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl learningnewstuff -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl levelupcoding -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl lifeofthought -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl omgfacts -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl onezero -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl pythonfeatures -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl pythoninplainenglish -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl pythonpandemonium -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl therenaissancedeveloper -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl thestartup -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl thewritingcooperative -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl towardsdatascience -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
-      scrapy crawl uxcollective -a sdate="yyyy-mm-dd" -a edate="yyyy-mm-dd"
+      scrapy crawl analyticsvidhya -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl betterhuman -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl bettermarketing -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl betterprogramming -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl codeburst -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl dailyjs -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl datadriveninvestor -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl devbits -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl every30days -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl forge -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl freecodecamp -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl googledevelopers -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl javascriptinplainenglish -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl jupyterblog -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl learningnewstuff -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl levelupcoding -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl lifeofthought -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl omgfacts -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl onezero -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl pythonfeatures -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl pythoninplainenglish -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl pythonpandemonium -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl therenaissancedeveloper -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl thestartup -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl thewritingcooperative -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl towardsdatascience -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
+      scrapy crawl uxcollective -a sdate=<yyyy-mm-dd> -a edate=<yyyy-mm-dd>
 
 * [MensXP](https://www.mensxp.com/) ```Crawler```
 
@@ -181,7 +181,7 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 
 * [Pypi](https://pypi.org) ```Crawler```
       
-      scrapy crawl packagedependency -a package="packagename"
+      scrapy crawl packagedependency -a package=<packagename>
 
 * [Quotes2Scrape](https://quotes.toscrape.com) ```Crawler```
 
@@ -189,7 +189,7 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 
 * [Reddit](http://reddit.com/) ```Crawler```
 
-      scrapy crawl reddit -a subreddit="subreddit-name"      
+      scrapy crawl reddit -a subreddit=<subreddit-name>
 
 * [RVCJ](http://rvcj.com/) ```Crawler```
 
@@ -244,6 +244,11 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 
       scrapy crawl viralstories
 
+* [Weather](https://openweathermap.org/) ```Crawler```
+
+      scrapy crawl weather -a city=<city>
+      scrapy crawl forecast -a city=<city>
+
 * [Brainy Quote](https://www.brainyquote.com) ```Automated Browser```
 * [Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/): scrapes the defintion of word
 * [CSS Tricks](https://css-tricks.com/snippets/)
@@ -268,7 +273,6 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 * [Snipplr](https://snipplr.com/popular/language)
 * [Spotify](https://www.spotify.com/in/) ```API```
 * [Stackoverflow](https://stackoverflow.com): scrapes the result for a query
-* [Weather](https://openweathermap.org/) : provides current weather info or 5 day forecast for a city ```API```
 * Website Info: provides various info about a website using [Alexa](https://www.alexa.com/siteinfo/) and [Whois](https://www.whois.com/)
 
 Instructions:
