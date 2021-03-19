@@ -90,4 +90,4 @@ DOWNLOAD_DELAY = 2
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 FEED_EXPORT_ENCODING = 'utf-8'
-LOG_LEVEL='INFO'
+# LOG_LEVEL='INFO'
