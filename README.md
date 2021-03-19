@@ -50,6 +50,10 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
       
       scrapy crawl problems
 
+* Emails: Crawl emails mentioned on a complete website
+
+      scrapy crawl emails -a start_url=<homepage_url> -a thresh=<num bw 1 & 100> -a restrict_domain=<0 or 1>
+
 * [Github](https://github.com)
   
       scrapy crawl profileheatmap -a username=<username>
