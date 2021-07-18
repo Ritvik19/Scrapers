@@ -216,6 +216,10 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
       scrapy crawl accounting-jobs
       scrapy crawl finance-accounts-investment-banking-jobs
 
+* [SixWordStories](https://http://www.sixwordstories.net/)
+      
+      scrapy crawl stories
+
 * [SlickDeals](https://slickdeals.net/deal-categories/)
 
       scrapy crawl computer
@@ -280,7 +284,6 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 * [Python Snyppets](https://snippets.readthedocs.io/en/latest/)
 * [Quotes2Scrape-Scroll](http://quotes.toscrape.com/scroll) ```Automated Browser```
 * [Seb Sauvage](https://sebsauvage.net/python/snyppets/)
-* [SixWordStories](https://http://www.sixwordstories.net/)
 * [Snipplr](https://snipplr.com/popular/language)
 * [Spotify](https://www.spotify.com/in/) ```API```
 * [Stackoverflow](https://stackoverflow.com): scrapes the result for a query
