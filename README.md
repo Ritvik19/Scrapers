@@ -273,7 +273,6 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 * [CSS Tricks](https://css-tricks.com/snippets/)
 * [Crazy Programmer](https://www.thecrazyprogrammer.com)
 * [Cricbuzz](https://www.cricbuzz.com): live cricket scores
-* EmailCrawler: Extract Email Address from a website
 * [Goodreads-Quotes](https://www.goodreads.com/quotes)
 * [Google Images Scrapper](https://www.google.com/imghp?hl=en) ```Automated Browser```
 * Image Crawler: Downloads all images from a webpage
@@ -285,7 +284,6 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 * OnThisDay: crawls through [On This Day](https://www.onthisday.com/) and [Britannica](https://www.britannica.com/on-this-day) to fetch data into json format
 * [ProjectGutenberg](https://www.gutenberg.org/)
 * [Python Snyppets](https://snippets.readthedocs.io/en/latest/)
-* [Quotes2Scrape-Scroll](http://quotes.toscrape.com/scroll) ```Automated Browser```
 * [Seb Sauvage](https://sebsauvage.net/python/snyppets/)
 * [Snipplr](https://snipplr.com/popular/language)
 * [Spotify](https://www.spotify.com/in/) ```API```
