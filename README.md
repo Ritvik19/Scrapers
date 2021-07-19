@@ -35,7 +35,11 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
 * [Books2Scrape](https://books.toscrape.com)
  
       scrapy crawl books
-      
+
+* [Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/): scrapes the defintion of word
+
+      scrapy crawl dict -a query=<query>
+
 * [CodeChef](https://www.codechef.com/)
       
       scrapy crawl all
@@ -266,7 +270,6 @@ This repo consists of chrome extensions,  notebooks, scripts for automated brows
       scrapy crawl forecast -a city=<city>
 
 * [Brainy Quote](https://www.brainyquote.com) ```Automated Browser```
-* [Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/): scrapes the defintion of word
 * [CSS Tricks](https://css-tricks.com/snippets/)
 * [Crazy Programmer](https://www.thecrazyprogrammer.com)
 * [Cricbuzz](https://www.cricbuzz.com): live cricket scores
