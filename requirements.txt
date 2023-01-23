@@ -43,7 +43,7 @@ selenium==3.141.0
 service-identity==18.1.0
 six==1.14.0
 soupsieve==2.0
-spotipy==2.11.2
+spotipy==2.22.1
 tqdm==4.36.0
 tweepy==3.8.0
 Twisted==20.3.0
